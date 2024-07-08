@@ -1,0 +1,6 @@
+p { color: blue;font-size: 1rem; }
+.hello {color: gold;}
+#birth {color: green;}
+.back {color: orange;}
+#gradient {background: linear-gradient(to right , #38a092 , #fdbf3b);color: white;}
+.title {border: double 4px black;border-radius: 50px;}
